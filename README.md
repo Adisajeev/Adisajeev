@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development 
 - 🌱 I’m currently learning elecrtonics and communication engineering
 - 💞️ I’m looking to collaborate on game development
-- 📫 How to reach me ...
+- 📫 adithyasajeev27@gmail.com
 
 <!---
 Adisajeev/Adisajeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
